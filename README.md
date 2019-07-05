@@ -1,1 +1,1 @@
-# udder-bundle
+Deprecated utilities.
