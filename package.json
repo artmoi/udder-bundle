@@ -1,5 +1,5 @@
 {
-  "name": "udder-bundle",
+  "name": "@artmoi/udder-bundle",
   "version": "0.0.2",
   "license": "Apache-2.0",
   "description": "deprecated utlities",
@@ -13,7 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/artmoi/udder-bundle.git"
+    "url": "git@github.com:artmoi/udder-bundle.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "typescript",
