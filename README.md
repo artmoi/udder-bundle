@@ -1,2 +1,1 @@
-Deprecated utilities. 
-Functionality where required migrated to artmoi-js
+Depreciated package for legacy support. Update to https://github.com/artmoi/artmoi-js
